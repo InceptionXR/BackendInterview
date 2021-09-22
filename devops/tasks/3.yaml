@@ -1,0 +1,1 @@
+# Given a node.js 16 server, written with typescript, using mongo, redis - create a dockerfile for publishing the app.
